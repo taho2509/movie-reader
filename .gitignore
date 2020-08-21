@@ -1,3 +1,4 @@
 *.csv
 cover*
 movie-reader
+.DS_Store
