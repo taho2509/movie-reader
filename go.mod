@@ -4,7 +4,8 @@ go 1.12
 
 require (
 	github.com/golang/protobuf v1.5.2 // indirect
-	github.com/nats-io/nats-server/v2 v2.2.5 // indirect
+	github.com/nats-io/jwt v1.2.2 // indirect
+	github.com/nats-io/nats-server/v2 v2.7.4 // indirect
 	github.com/nats-io/nats-streaming-server v0.21.2 // indirect
 	github.com/nats-io/stan.go v0.10.3
 	github.com/satori/go.uuid v1.2.0
